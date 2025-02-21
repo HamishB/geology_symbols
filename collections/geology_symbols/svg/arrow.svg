@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+  height="500" width="500" viewBox="0 0 500 500"
+  enable-background="new 0 0 500 500">
+
+  <path d="M20 250 L480 250 M320 163.15 L480 250 L320 336.85"
+     fill="param(fill)"
+     fill-opacity="param(fill-opacity) 0"
+     stroke="param(outline)"
+     stroke-opacity="param(outline-opacity)"
+     stroke-width="param(outline-width) 0.5" />
+
+</svg>

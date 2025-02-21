@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+  height="500" width="500" viewBox="0 0 500 500"
+  enable-background="new 0 0 500 500">
+
+  <path d="M50 250 A200 200 0 1 0 450 250
+           M50 250 A200 200 0 0 1 450 250
+           M10 10 L165 165 M490 490 L335 335
+           M490 10 L335 165 M10 490 L160 335"
+     fill="param(fill)"
+     fill-opacity="param(fill-opacity) 0"
+     stroke="param(outline)"
+     stroke-opacity="param(outline-opacity)"
+     stroke-width="param(outline-width) 0.5" />
+
+  <circle r="10" cx="250" cy="250"
+     fill="param(fill) black"
+     fill-opacity="param(fill-opacity)"
+     stroke="param(outline) black"
+     stroke-opacity="param(outline-opacity)"
+     stroke-width="param(outline-width) 0.5" />
+
+</svg>
