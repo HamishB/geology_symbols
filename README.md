@@ -14,7 +14,7 @@ dynamic parameters for stroke and fill that allow the QGIS user
 to modify the styling on the fly.
 
 <img src="collections/geology_symbols/preview/geo_symbols.png"
-     width="602" align="center" alt="Geologic symbols">
+     width="344" align="center" alt="Geologic symbols">
 
 A more complete set is available from
 [Rodreras's collection](https://github.com/rodreras/geologic_icons/)
